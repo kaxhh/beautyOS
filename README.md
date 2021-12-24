@@ -3,13 +3,19 @@
 >
 > 简单就是美啊，我就是小漂亮！
 
-## 时间线
+## 时间轴
 
 想做一个很简约的，符合我的审美的轻量级OS。因为这个世界上已经有很多的RTOS了，所以也会借鉴一些。主要会借鉴中国移动的[OneOS-Lite](https://gitee.com/cmcc-oneos/OneOS-Lite)，非常感谢。
 
+### 1.工具链选择
 
+工欲善其事，必先利其器。因此，我的第一步就是选择好工具链。因为`arm`和`risc-v`在嵌入式领域举足轻重。因此，我将会在这两个`arch`上努力。
 
+再次，在嵌入式`RTOS`中，仍然选择`C`语言作为主要语言。以后会考虑出一般`rust`，现在还是踏踏实实写好`c`，步子不能迈太大哦。
 
+因此，对于C工具链，我则沿用了[OneOS-Lite](https://gitee.com/cmcc-oneos/OneOS-Lite)所使用的工具：[OneOS-Cube](https://gitee.com/cmcc-oneos/one-os-cube)
+
+具体使用方法可见：[工具简介 (oneos-lite.com)](https://oneos-lite.com/#/docs/tools/README)
 
 
 
