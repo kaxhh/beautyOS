@@ -1,0 +1,2 @@
+# beautyOS
+simple is beauty.
