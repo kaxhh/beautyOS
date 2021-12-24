@@ -17,6 +17,9 @@
 
 具体使用方法可见：[工具简介 (oneos-lite.com)](https://oneos-lite.com/#/docs/tools/README)
 
+### 2.第一步
+
+能打印输出，第一步也算是完成了！现在还没有任何代码，任重而道远也( •̀ ω •́ )y
 
 
 
